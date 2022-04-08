@@ -1,0 +1,15 @@
+.carousel-inner {
+  width: 100%;
+  display: flex;
+  .carousel-item {
+    height:300px;
+    display: block;
+    float: left;
+    margin-right: 0;
+    width:32%
+  }
+  
+}
+.disabled {
+  cursor: no-drop
+}

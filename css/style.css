@@ -1,0 +1,19 @@
+.carousel-inner {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.carousel-inner .carousel-item {
+  height: 300px;
+  display: block;
+  float: left;
+  margin-right: 0;
+  width: 32%;
+}
+
+.disabled {
+  cursor: no-drop;
+}
+/*# sourceMappingURL=style.css.map */
